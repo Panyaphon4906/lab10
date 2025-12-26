@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	int count[5] = {};
 	char grade;
-    int studentCount = 0; 
+    int studentCount = 0;
 
 	cout << "Please input grade of each student (A-F) or input 0 to exit.\n";
 	

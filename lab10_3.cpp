@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
     int count = 0;                
-    float sum = 0.0f;             
+    float sum = 0.0f;           
     float sum_of_square = 0.0f;   
     string textline;            
     ifstream source("score.txt");
